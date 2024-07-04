@@ -3,12 +3,12 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Welcome
 
 {{< columns >}}
 ## Dybdaltech
 
-Personal site for exploring tech and posting D&D stuff.
+A personal site for exploring tech and posting D&D stuff. 
 
 <--->
 
@@ -20,7 +20,7 @@ This site is powered by Hugo, an awesome static site generator written in Go, I 
 
 ## Tech?
 
-Here's a piece of code that does something..
+Here's a piece of code that does something from my Reddit crawler..
 
 
 ```
